@@ -1,0 +1,24 @@
+/*reglas
+
+-selector (p)
+-propiedad (color, fuente, etc)
+- valor (blue, xxlarge, times new roman etc)
+
+
+Para poder seleccionar elementos html, tenemos tres formas de hacerlo
+
+-etiqueta (el estilo se aplica a TODAS las etiquetas coincidentes)
+-Clase
+*/
+p
+body {
+
+    .CH31
+{ 
+    background-color: bisque;
+#Brandon{
+color:red;
+
+}
+
+}
